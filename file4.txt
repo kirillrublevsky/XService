@@ -1,0 +1,3 @@
+The actor model provides an abstraction that allows you to think about your code in terms of communication, 
+not unlike people in a large organization. The basic characteristic of actors is that they model 
+the world as stateful entities communicating with each other by explicit message passing.

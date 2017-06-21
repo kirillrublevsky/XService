@@ -1,0 +1,6 @@
+Common practices and programming models do not address important challenges 
+inherent in designing systems for modern computer architectures. 
+To be successful, distributed systems must cope in an environment where components crash without responding, 
+messages get lost without a trace on the wire, and network latency fluctuates. 
+These problems occur regularly in carefully managed intra-datacenter environments - 
+even more so in virtualized architectures.
